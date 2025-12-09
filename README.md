@@ -72,6 +72,9 @@ Which regions contribute the most sales?
 
 Who are the top customers by spend?
 
+- Helps business stakeholders monitor KPIs and take informed decisions based on trends and segment performance.
+
+
 🚀 Future Enhancements
 
 Profitability metrics

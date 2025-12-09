@@ -1,3 +1,5 @@
+![Sales Analytics Dashboard](dashboard_preview.png)
+
 This project showcases an end-to-end Sales Analytics Dashboard built using:
 
 SQL for data extraction, joins, and aggregations
